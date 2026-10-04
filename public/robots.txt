@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Explicitly welcome major search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Bravebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Host: https://markalexisbatis.vercel.app
+Sitemap: https://markalexisbatis.vercel.app/sitemap.xml
